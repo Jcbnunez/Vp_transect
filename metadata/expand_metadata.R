@@ -30,12 +30,13 @@ dat2 %>%
   separate(biotag, into = c("Site", "ind"), sep = "-") ->
   dat2_exp
   
-full_join(dat, dat2_exp) %>% View
+full_join(dat, dat2_exp) -> dat_merged
 
-
-write.table(my_exp_meta, 
-            file = "meta.clean.exp.txt", 
+write.table(dat_merged, 
+            file = "/Users/jcnunez/Documents/GitHub/Vp_transect/metadata.final.Feb24.2025.txt", 
             append = FALSE, quote = FALSE, sep = "\t",
             eol = "\n", na = "NA", dec = ".", row.names = FALSE,
             col.names = TRUE, qmethod = c("escape", "double"),
             fileEncoding = "")
+
+

@@ -1,0 +1,97 @@
+Site	Lat	Long	Transect	Transect_Type	Transect_step	Notes	file_name	ind	techtag
+87	32.8828	-113.229	T4	H-SM	3	Exit 87	87-W1_trimmed90.fq	W1	trimmed90.fq
+87	32.8828	-113.229	T4	H-SM	3	Exit 87	87-W2_trimmed90.fq	W2	trimmed90.fq
+87	32.8828	-113.229	T4	H-SM	3	Exit 87	87-W3_trimmed90.fq	W3	trimmed90.fq
+87	32.8828	-113.229	T4	H-SM	3	Exit 87	87-W4_trimmed90.fq	W4	trimmed90.fq
+GB	32.92191667	-112.664	T4	H-SM	5	Gila Bend, AZ	GB-W3_trimmed90.fq	W3	trimmed90.fq
+GB	32.92191667	-112.664	T4	H-SM	5	Gila Bend, AZ	GB-W4_trimmed90.fq	W4	trimmed90.fq
+GB	32.92191667	-112.664	T4	H-SM	5	Gila Bend, AZ	GB-W5_trimmed90.fq	W5	trimmed90.fq
+GB	32.92191667	-112.664	T4	H-SM	5	Gila Bend, AZ	GB-W7_trimmed90.fq	W7	trimmed90.fq
+DL	32.81205	-113.541	T4	H-SM	1	Dateland, CA	DL-W1_trimmed90.fq	W1	trimmed90.fq
+DL	32.81205	-113.541	T4	H-SM	1	Dateland, CA	DL-W3_trimmed90.fq	W3	trimmed90.fq
+DL	32.81205	-113.541	T4	H-SM	1	Dateland, CA	DL-W4_trimmed90.fq	W4	trimmed90.fq
+DL	32.81205	-113.541	T4	H-SM	1	Dateland, CA	DL-W5_trimmed90.fq	W5	trimmed90.fq
+GL	32.99863333	-115.069	T3	H-PP	6	Glamis	GL-W1_trimmed90.fq	W1	trimmed90.fq
+GL	32.99863333	-115.069	T3	H-PP	6	Glamis	GL-W2_trimmed90.fq	W2	trimmed90.fq
+GL	32.99863333	-115.069	T3	H-PP	6	Glamis	GL-W3_trimmed90.fq	W3	trimmed90.fq
+GL	32.99863333	-115.069	T3	H-PP	6	Glamis	GL-W4_trimmed90.fq	W4	trimmed90.fq
+TKW	32.8665	-114.895	T3	H-PP	4	W on Ted Kipf Rd.	TKW-F1_trimmed90.fq	F1	trimmed90.fq
+TKW	32.8665	-114.895	T3	H-PP	4	W on Ted Kipf Rd.	TKW-F2_trimmed90.fq	F2	trimmed90.fq
+TKW	32.8665	-114.895	T3	H-PP	4	W on Ted Kipf Rd.	TKW-F3_trimmed90.fq	F3	trimmed90.fq
+TKW	32.8665	-114.895	T3	H-PP	4	W on Ted Kipf Rd.	TKW-F4_trimmed90.fq	F4	trimmed90.fq
+N2	32.80401667	-114.616	T3	H-PP	2	0.5mi N Canal crossing	N2-W1_trimmed90.fq	W1	trimmed90.fq
+N2	32.80401667	-114.616	T3	H-PP	2	0.5mi N Canal crossing	N2-W2_trimmed90.fq	W2	trimmed90.fq
+N2	32.80401667	-114.616	T3	H-PP	2	0.5mi N Canal crossing	N2-W3_trimmed90.fq	W3	trimmed90.fq
+N2	32.80401667	-114.616	T3	H-PP	2	0.5mi N Canal crossing	N2-W5_trimmed90.fq	W5	trimmed90.fq
+YU	32.68195	-114.412	T3	H-PP	1	Yuma, AZ	YU-W1_trimmed90.fq	W1	trimmed90.fq
+YU	32.68195	-114.412	T3	H-PP	1	Yuma, AZ	YU-W2_trimmed90.fq	W2	trimmed90.fq
+YU	32.68195	-114.412	T3	H-PP	1	Yuma, AZ	YU-W3_trimmed90.fq	W3	trimmed90.fq
+YU	32.68195	-114.412	T3	H-PP	1	Yuma, AZ	YU-W4_trimmed90.fq	W4	trimmed90.fq
+EH	33.60175	-114.5	T2	PP-SM	1	Ehrenberg, AZ	EH-W1_trimmed90.fq	W1	trimmed90.fq
+EH	33.60175	-114.5	T2	PP-SM	1	Ehrenberg, AZ	EH-W2_trimmed90.fq	W2	trimmed90.fq
+EH	33.60175	-114.5	T2	PP-SM	1	Ehrenberg, AZ	EH-W3_trimmed90.fq	W3	trimmed90.fq
+EH	33.60175	-114.5	T2	PP-SM	1	Ehrenberg, AZ	EH-W4_trimmed90.fq	W4	trimmed90.fq
+FR	33.66888333	-115.9	T1	H-PP	5	Frontage Rd.	FR-F1_trimmed90.fq	F1	trimmed90.fq
+FR	33.66888333	-115.9	T1	H-PP	5	Frontage Rd.	FR-W1_trimmed90.fq	W1	trimmed90.fq
+FR	33.66888333	-115.9	T1	H-PP	5	Frontage Rd.	FR-W2_trimmed90.fq	W2	trimmed90.fq
+FR	33.66888333	-115.9	T1	H-PP	5	Frontage Rd.	FR-W3_trimmed90.fq	W3	trimmed90.fq
+WW	33.92496667	-116.644	T1	H-PP	1	Whitewater, CA	WW-W1_trimmed90.fq	W1	trimmed90.fq
+WW	33.92496667	-116.644	T1	H-PP	1	Whitewater, CA	WW-W2_trimmed90.fq	W2	trimmed90.fq
+WW	33.92496667	-116.644	T1	H-PP	1	Whitewater, CA	WW-W3_trimmed90.fq	W3	trimmed90.fq
+WW	33.92496667	-116.644	T1	H-PP	1	Whitewater, CA	WW-W4_trimmed90.fq	W4	trimmed90.fq
+FC	33.7472	-116.108	T1	H-PP	2	Fargo Canyon Road	FC-W1_trimmed90.fq	W1	trimmed90.fq
+FC	33.7472	-116.108	T1	H-PP	2	Fargo Canyon Road	FC-W2_trimmed90.fq	W2	trimmed90.fq
+FC	33.7472	-116.108	T1	H-PP	2	Fargo Canyon Road	FC-W5_trimmed90.fq	W5	trimmed90.fq
+FC	33.7472	-116.108	T1	H-PP	2	Fargo Canyon Road	FC-W6_trimmed90.fq	W6	trimmed90.fq
+C	33.7136	-116.044	T1	H-PP	3	Site C on Aqueduct Rd.	C-W1_trimmed90.fq	W1	trimmed90.fq
+C	33.7136	-116.044	T1	H-PP	3	Site C on Aqueduct Rd.	C-W2_trimmed90.fq	W2	trimmed90.fq
+C	33.7136	-116.044	T1	H-PP	3	Site C on Aqueduct Rd.	C-W3_trimmed90.fq	W3	trimmed90.fq
+C	33.7136	-116.044	T1	H-PP	3	Site C on Aqueduct Rd.	C-W4_trimmed90.fq	W4	trimmed90.fq
+A	33.68048333	-115.993	T1	H-PP	4	Site A on Aqueduct Rd.	A-W1_trimmed90.fq	W1	trimmed90.fq
+A	33.68048333	-115.993	T1	H-PP	4	Site A on Aqueduct Rd.	A-W2_trimmed90.fq	W2	trimmed90.fq
+A	33.68048333	-115.993	T1	H-PP	4	Site A on Aqueduct Rd.	A-W3_trimmed90.fq	W3	trimmed90.fq
+A	33.68048333	-115.993	T1	H-PP	4	Site A on Aqueduct Rd.	A-W4_trimmed90.fq	W4	trimmed90.fq
+VK	33.62473333	-113.767	T2	PP-SM	2	Vicksburg Rd.	VK-W1_trimmed90.fq	W1	trimmed90.fq
+VK	33.62473333	-113.767	T2	PP-SM	2	Vicksburg Rd.	VK-W2_trimmed90.fq	W2	trimmed90.fq
+VK	33.62473333	-113.767	T2	PP-SM	2	Vicksburg Rd.	VK-W3_trimmed90.fq	W3	trimmed90.fq
+VK	33.62473333	-113.767	T2	PP-SM	2	Vicksburg Rd.	VK-W4_trimmed90.fq	W4	trimmed90.fq
+SAL	33.54691667	-113.179	T2	PP-SM	6	Salome Rd.	SAL-F1_trimmed90.fq	F1	trimmed90.fq
+SAL	33.54691667	-113.179	T2	PP-SM	6	Salome Rd.	SAL-F2_trimmed90.fq	F2	trimmed90.fq
+SAL	33.54691667	-113.179	T2	PP-SM	6	Salome Rd.	SAL-W1_trimmed90.fq	W1	trimmed90.fq
+SAL	33.54691667	-113.179	T2	PP-SM	6	Salome Rd.	SAL-W2_trimmed90.fq	W2	trimmed90.fq
+HV	33.60583333	-113.621	T2	PP-SM	3	Hovatter Rd.	HV-W1_trimmed90.fq	W1	trimmed90.fq
+HV	33.60583333	-113.621	T2	PP-SM	3	Hovatter Rd.	HV-W2_trimmed90.fq	W2	trimmed90.fq
+HV	33.60583333	-113.621	T2	PP-SM	3	Hovatter Rd.	HV-W3_trimmed90.fq	W3	trimmed90.fq
+HV	33.60583333	-113.621	T2	PP-SM	3	Hovatter Rd.	HV-W4_trimmed90.fq	W4	trimmed90.fq
+69	33.57175	-113.353	T2	PP-SM	5	Exit 69	69-W1_trimmed90.fq	W1	trimmed90.fq
+69	33.57175	-113.353	T2	PP-SM	5	Exit 69	69-W2_trimmed90.fq	W2	trimmed90.fq
+69	33.57175	-113.353	T2	PP-SM	5	Exit 69	69-W3_trimmed90.fq	W3	trimmed90.fq
+69	33.57175	-113.353	T2	PP-SM	5	Exit 69	69-W4_trimmed90.fq	W4	trimmed90.fq
+1B	33.536	-113.536	T2	PP-SM	4	AT&T Frontage Rd. & Sore Finger Rd.	1B-W1_trimmed90.fq	W1	trimmed90.fq
+1B	33.536	-113.536	T2	PP-SM	4	AT&T Frontage Rd. & Sore Finger Rd.	1B-W2_trimmed90.fq	W2	trimmed90.fq
+1B	33.536	-113.536	T2	PP-SM	4	AT&T Frontage Rd. & Sore Finger Rd.	1B-W3_trimmed90.fq	W3	trimmed90.fq
+1B	33.536	-113.536	T2	PP-SM	4	AT&T Frontage Rd. & Sore Finger Rd.	1B-W4_trimmed90.fq	W4	trimmed90.fq
+RB	33.3123	-112.633	T2	PP-SM	7	Robin's Butte	RB-W1_trimmed90.fq	W1	trimmed90.fq
+RB	33.3123	-112.633	T2	PP-SM	7	Robin's Butte	RB-W3_trimmed90.fq	W3	trimmed90.fq
+RB	33.3123	-112.633	T2	PP-SM	7	Robin's Butte	RB-W4_trimmed90.fq	W4	trimmed90.fq
+RB	33.3123	-112.633	T2	PP-SM	7	Robin's Butte	RB-W5_trimmed90.fq	W5	trimmed90.fq
+CG	32.937	-111.696	T4	H-SM	6	Casa Grande,AZ	CG-W1_trimmed90.fq	W1	trimmed90.fq
+CG	32.937	-111.696	T4	H-SM	6	Casa Grande,AZ	CG-W2_trimmed90.fq	W2	trimmed90.fq
+CG	32.937	-111.696	T4	H-SM	6	Casa Grande,AZ	CG-W3_trimmed90.fq	W3	trimmed90.fq
+CG	32.937	-111.696	T4	H-SM	6	Casa Grande,AZ	CG-W4_trimmed90.fq	W4	trimmed90.fq
+SPOT	32.83651667	-113.358	T4	H-SM	2	Exit 78 Spot Rd.	SPOT-W2_trimmed90.fq	W2	trimmed90.fq
+SPOT	32.83651667	-113.358	T4	H-SM	2	Exit 78 Spot Rd.	SPOT-W4_trimmed90.fq	W4	trimmed90.fq
+SPOT	32.83651667	-113.358	T4	H-SM	2	Exit 78 Spot Rd.	SPOT-W5_trimmed90.fq	W5	trimmed90.fq
+SPOT	32.83651667	-113.358	T4	H-SM	2	Exit 78 Spot Rd.	SPOT-W6_trimmed90.fq	W6	trimmed90.fq
+OG	32.76838333	-114.837	T3	H-PP	3	Ogilby Rd.	OG-F2_trimmed90.fq	F2	trimmed90.fq
+OG	32.76838333	-114.837	T3	H-PP	3	Ogilby Rd.	OG-F3_trimmed90.fq	F3	trimmed90.fq
+OG	32.76838333	-114.837	T3	H-PP	3	Ogilby Rd.	OG-F5_trimmed90.fq	F5	trimmed90.fq
+OG	32.76838333	-114.837	T3	H-PP	3	Ogilby Rd.	OG-F6_trimmed90.fq	F6	trimmed90.fq
+PRC	33.02461667	-113.044	T4	H-SM	4	Painted Rock campground	PRC-W5_trimmed90.fq	W5	trimmed90.fq
+PRC	33.02461667	-113.044	T4	H-SM	4	Painted Rock campground	PRC-W6_trimmed90.fq	W6	trimmed90.fq
+PRC	33.02461667	-113.044	T4	H-SM	4	Painted Rock campground	PRC-W7_trimmed90.fq	W7	trimmed90.fq
+PRC	33.02461667	-113.044	T4	H-SM	4	Painted Rock campground	PRC-W8_trimmed90.fq	W8	trimmed90.fq
+TKE	32.9541	-115.006	T3	H-PP	5	4.5mi E Ted Kipf Rd.	TKE-F1_trimmed90.fq	F1	trimmed90.fq
+TKE	32.9541	-115.006	T3	H-PP	5	4.5mi E Ted Kipf Rd.	TKE-F2_trimmed90.fq	F2	trimmed90.fq
+TKE	32.9541	-115.006	T3	H-PP	5	4.5mi E Ted Kipf Rd.	TKE-F3_trimmed90.fq	F3	trimmed90.fq
+TKE	32.9541	-115.006	T3	H-PP	5	4.5mi E Ted Kipf Rd.	TKE-F4_trimmed90.fq	F4	trimmed90.fq
